@@ -1,5 +1,8 @@
 Revision history for App-ZofCMS-Plugin-LinksToSpecs-HTML
 
-0.0101  August 12, 2008
-        First version, released on an unsuspecting world.
+0.0102  2013-11-09
+        - Minor fixes to comply with specs and Kwalitee game
+
+0.0101  2008-08-12
+        - First version, released on an unsuspecting world.
 
